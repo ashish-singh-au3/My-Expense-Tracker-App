@@ -3,4 +3,4 @@ This app is all about tracking your expenses on how much you have spent or how m
 
 # Tech/Languages used:
 
-# ReactJs, Redux and CSS.
+ReactJs, Redux and CSS.
